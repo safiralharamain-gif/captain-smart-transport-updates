@@ -1,0 +1,9 @@
+{
+  "version": "1.4.1",
+  "versionCode": 141,
+  "notes": "إصدار أندرويد مستقر: تصحيح حساب صافي الربح، وفصل حصالة البنزين والزيت عن المصروفات اليومية والثابتة، مع دعم التحديث من داخل التطبيق.",
+  "downloadUrl": "https://github.com/safiralharamain-gif/captain-smart-transport-updates/releases/download/android-v1.4.1/CaptainSmartTransport-Android-v1.4.1.apk",
+  "mandatory": false,
+  "sha256": "03946a9fedf745d2f384e3f0c93e25d0294e51f3a7e1c6f3d884060350b11e92",
+  "publishedAt": "2026-07-15"
+}
